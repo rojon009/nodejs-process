@@ -43,8 +43,8 @@ The project consists of several examples, each focusing on different aspects of 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/rojon009/nodejs-process.git
+   cd nodejs-process
    ```
 
 2. Install dependencies:
