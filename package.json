@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-process-example",
+  "version": "1.0.0",
+  "description": "A real-world example of Node.js process usage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "process-dev": "NODE_ENV=development node use-of-process-example.js",
+    "process-prod": "NODE_ENV=production node use-of-process-example.js",
+    "memory-leak": "node memory-leak-example.js",
+    "memory-metrics": "node memory-metrics-example.js"
+  },
+  "keywords": [
+    "nodejs",
+    "process",
+    "example"
+  ],
+  "author": "",
+  "license": "ISC"
+} 
